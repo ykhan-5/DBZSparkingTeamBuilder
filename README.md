@@ -1,3 +1,6 @@
+# Summary 
+A fan-made team generator for DBZ Sparking Zero. This tool randomly selects teams of characters based on a 15-point battle limit, with filters for saga, character type (e.g., Z Fighters, Saiyans), and more. Players can generate either one team for solo play or two teams with adjustable difficulty settings for a more challenging match-up. Perfect for building balanced or uneven teams for custom battles!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
