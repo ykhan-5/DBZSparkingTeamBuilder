@@ -1,0 +1,1090 @@
+{
+  "characters": [
+    {
+      "name": "Goku (Z-Early)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/PH6jjZkGS1KaO7AufpIq"
+    },
+    {
+      "name": "Goku (Z-Mid)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/wFcfV5TT0GdFqU6uEbQn"
+    },
+    {
+      "name": "Goku (Z-Mid)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/yVRfiV91TGJsTol1qLIZ"
+    },
+    {
+      "name": "Goku (Z-End)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WXwj3mIVSNuDrp4PXamN"
+    },
+    {
+      "name": "Goku (Z-End)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/amhNkthQVWad8ZhWkiuV"
+    },
+    {
+      "name": "Goku (Z-End)",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/RcdbnGQzSNebOnRzwCiV"
+    },
+    {
+      "name": "Goku (Z-End)",
+      "feature": "Super Saiyan 3",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/mndORp1mRYq6CikxDCcL"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/8Zy5EXueRR2lvE8hYF28"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Zl4JLYI8Qb6jk19iCn3B"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "Super Saiyan God",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/w2brTEORm6fP59aNqnzA"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "Super Saiyan God Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/OvjlXxRaSf6nM5L8lqWy"
+    },
+    {
+      "name": "Vegeta (Z-Scouter)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/NXF1FtRwR4CILvTc2bIC"
+    },
+    {
+      "name": "Great Ape Vegeta",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/n2NwluEPRoWdy1Fm9bER"
+    },
+    {
+      "name": "Vegeta (Z-Early)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/u8mBsIMzQXiMjkcM8axj"
+    },
+    {
+      "name": "Vegeta (Z-Early)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/P2BoM6LXRXKZpwXmYZT7"
+    },
+    {
+      "name": "Super Vegeta",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/xaTAhlRbTyiKGPRRZXzM"
+    },
+    {
+      "name": "Vegeta (Z-End)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/dFiVJUlTMKnfcIlXSobg"
+    },
+    {
+      "name": "Vegeta (Z-End)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/vBzcEBF0S1SHC4HbFpP2"
+    },
+    {
+      "name": "Vegeta (Z-End)",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Qxxdf7K7T1a9pYhKpODS"
+    },
+    {
+      "name": "Majin Vegeta",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/W3126twhSe7JONHFrPET"
+    },
+    {
+      "name": "Vegeta (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/eOBjIrCASaS1UiW8vtUF"
+    },
+    {
+      "name": "Vegeta (Super)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4wtkkiONQwyTExci3QSd"
+    },
+    {
+      "name": "Vegeta (Super)",
+      "feature": "Super Saiyan God",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/zDttfxuxRQ6LZ0gktxUM"
+    },
+    {
+      "name": "Vegeta (Super)",
+      "feature": "Super Saiyan God Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/tVPOE9fRTiCTEhBvaejd"
+    },
+    {
+      "name": "Piccolo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/eP8zDckDTW2mPuxpx9Ia"
+    },
+    {
+      "name": "Krillin",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/oTSq3sDNQcukhJ9tExfi"
+    },
+    {
+      "name": "Yamcha",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/bJNzXQnER9OCThp6KS2m"
+    },
+    {
+      "name": "Tien",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/cuBsB2FQSyjxHobtV4MJ"
+    },
+    {
+      "name": "Trunks (Melee)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/TgU0AvHdTaaQ3MmKkp7r"
+    },
+    {
+      "name": "Future Trunks",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/CgiveuUuRbOYnvsxml8r"
+    },
+    {
+      "name": "Frieza (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/IHVUPISqWLA8qwJOVPwY"
+    },
+    {
+      "name": "Cell",
+      "feature": "Perfect Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/823umbIrToOEYy8YmCqM"
+    },
+    {
+      "name": "Majin Buu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/XnIrujdgQWWGIYqkRYjT"
+    },
+    {
+      "name": "Mr. Satan",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/kdUewrrhQ2eiMPsLvvxA"
+    },
+    {
+      "name": "Android 17 (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/UkeqNShQrCgo8FK00pE7"
+    },
+    {
+      "name": "Android 18",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WE9Vz1USYSUMz2d4zNcQ"
+    },
+    {
+      "name": "Broly (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/RoVseZzXQlq1fZpauVhm"
+    },
+    {
+      "name": "Broly (Super)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/1drpqbZ1T9eDzET7nEkF"
+    },
+    {
+      "name": "Jiren",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4WOoQlXqRsaDe7HSjhMY"
+    },
+    {
+      "name": "Bergamo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/1V0lQaZcSiCrYxamzksa"
+    },
+    {
+      "name": "Super Trunks",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/yeXwgASQ52zcICjVPx14"
+    },
+    {
+      "name": "Dyspo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/bKwf3rmpTOrg0X1or2gD"
+    },
+    {
+      "name": "Kakunsa",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/QtStIADAQfmxNk74ToSF"
+    },
+    {
+      "name": "Master Roshi",
+      "feature": "Max Power",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/JmdgMnVRxOwRxbAyJm96"
+    },
+    {
+      "name": "Nappa",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/i7RSBM9UQDKVQr397ICe"
+    },
+    {
+      "name": "Burter",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/pex1Qe7RDKbBnBU4LMnJ"
+    },
+    {
+      "name": "Toppo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/cMApbYBURAShVRhlIKhH"
+    },
+    {
+      "name": "Jeice",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/GttKp0QaWCs0gcX9GKOA"
+    },
+    {
+      "name": "Kale",
+      "feature": "Super Saiyan (Berserk)",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/HR4BiJUQQOeuJ1iHBNbw"
+    },
+    {
+      "name": "Broly (Super)",
+      "feature": "Super Saiyan Full Power",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/YKjDnFmMTfKvl8Lomb5x"
+    },
+    {
+      "name": "Hit",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/3dKHvJYCQEGefu0uyORY"
+    },
+    {
+      "name": "Beerus",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/pCOnfsNbShqGXlTGS05x"
+    },
+    {
+      "name": "Gohan (Adult)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/wqQJoldgTAaQ8erKyJLo"
+    },
+    {
+      "name": "Videl",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/KraYPIYqRdOt1Uy7w0lc"
+    },
+    {
+      "name": "Gohan (Future)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/S9dExWzToqrfIiSyTQMw"
+    },
+    {
+      "name": "Gohan (Future)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/my6QN67QnisLi6O1vf7O"
+    },
+    {
+      "name": "Gohan (Kid)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/mvH2WQOS6epqkgBkxQcf"
+    },
+    {
+      "name": "Master Roshi",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Px1BpgjWQB2qapV3htQg"
+    },
+    {
+      "name": "Trunks (Sword)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/LNPyUPMSRkSxTOETxKAz"
+    },
+    {
+      "name": "Trunks (Sword)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/P3A0QV2VRwy7CXM5caF5"
+    },
+    {
+      "name": "Whis",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/RXIyCzBTQFGrWwj68TUr"
+    },
+    {
+      "name": "Trunks (Kid)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Z2FjyhYUTFyUVobAes1h"
+    },
+    {
+      "name": "Trunks (Kid)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/QisS3qJRRoC5zLwtpmeg"
+    },
+    {
+      "name": "Goten",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/pLFV10TXRoiehrMbL8m4"
+    },
+    {
+      "name": "Goten",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/6Q1MEhpdTICnOa0wFUgj"
+    },
+    {
+      "name": "Gotenks",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/mTP9u023Rli8yW8buWF0"
+    },
+    {
+      "name": "Gotenks",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/EVhKEeDOTHmBERL1etYQ"
+    },
+    {
+      "name": "Gotenks",
+      "feature": "Super Saiyan 3",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/BkteOhSSHy7uevDjXsXS"
+    },
+    {
+      "name": "Kale",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/z0cORSZ8RdGULNsepmGw"
+    },
+    {
+      "name": "Kale",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/JEMlpFSMi34ZO0Y599wG"
+    },
+    {
+      "name": "Caulifla",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/YrxMDNFiTVinAis1BkU6"
+    },
+    {
+      "name": "Caulifla",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/p6tLrY8uTYKMuYTbNGCp"
+    },
+    {
+      "name": "Kefla",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/kvrLeYcSAea3x7Ifxh1B"
+    },
+    {
+      "name": "Kefla",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/6C5mlXTMRUmqFCiWamCv"
+    },
+    {
+      "name": "Kefla",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/i7uoD9ZTm2BYNvkekKXe"
+    },
+    {
+      "name": "Vegito",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/rNR3lARRvae0ab7RrRUv"
+    },
+    {
+      "name": "Vegito",
+      "feature": "Super Saiyan God Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/8NJ9VOqQgqZutVEYCfmO"
+    },
+    {
+      "name": "Gogeta (Super)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/YsOR5oXlS3mFfEWQqaWw"
+    },
+    {
+      "name": "Gogeta (Super)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4QhTyd9cR82RTrC7dlXo"
+    },
+    {
+      "name": "Gogeta (Super)",
+      "feature": "Super Saiyan God Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/7cdf4cQZR0m01HEGUBeJ"
+    },
+    {
+      "name": "Fused Zamasu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/z6yg9i09TViLcVU9Fjz1"
+    },
+    {
+      "name": "Fused Zamasu",
+      "feature": "Half-Corrupted",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/a2Kb713GR4qYkTEpOOCr"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "Ultra Instinct",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/f5BGkKSSNGUURAu2Opki"
+    },
+    {
+      "name": "Gohan (Adult)",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/uMKXq6JTrCEo3qLXpkql"
+    },
+    {
+      "name": "Golden Frieza",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/CK7xzAbwSLaKOP9SbPPQ"
+    },
+    {
+      "name": "Bardock",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/KwoqPMRgToDALjtTjcHC"
+    },
+    {
+      "name": "Raditz",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/9axuKzTvTBy50odWhyJE"
+    },
+    {
+      "name": "Goku Black",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/vwGsTku8ScecBw2cyeqY"
+    },
+    {
+      "name": "Zamasu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/l6EwcdKNQCiSoAOfu5QA"
+    },
+    {
+      "name": "Jiren",
+      "feature": "Full Power",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/feTnQ0YRROq4miZC66AE"
+    },
+    {
+      "name": "Goku (Super)",
+      "feature": "Ultra Instinct -Sign-",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/dajU9ej2RjgRgZnVgnxG"
+    },
+    {
+      "name": "Super Vegito",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/QP7NLZHzRZuu9X98zDhE"
+    },
+    {
+      "name": "Yajirobe",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/BczRPZKXR4ypvkk9mqpe"
+    },
+    {
+      "name": "Dabura",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/CEv4XtvfQq81ETxf95Sn"
+    },
+    {
+      "name": "Spopovich",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/czFoAT7Rpu48FzNQZNFU"
+    },
+    {
+      "name": "Goku Black",
+      "feature": "Super Saiyan Ros\u00e9",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/kEC7V9YSS3yOa9Oy9mYQ"
+    },
+    {
+      "name": "Future Trunks",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/bRlEkCHIRQuNfa6eUEvw"
+    },
+    {
+      "name": "Ribrianne",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/VNjDj2wRESVoTNJFT67Q"
+    },
+    {
+      "name": "Roasie",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/gbslIJhaRjiscrGhmFQp"
+    },
+    {
+      "name": "Anilaza",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/1eybjwh2T3SYiQmw6djK"
+    },
+    {
+      "name": "Nail",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WmMdaIspQsS8ItLlIrb0"
+    },
+    {
+      "name": "Frieza (Z)",
+      "feature": "1st Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/1jArYqY8QvSWJ50EBGjX"
+    },
+    {
+      "name": "Frieza (Z)",
+      "feature": "2nd Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/zweLMcYGQ0KMWwmlxkZd"
+    },
+    {
+      "name": "Frieza (Z)",
+      "feature": "3rd Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WtIRxlRSlKA40wAlXw4Q"
+    },
+    {
+      "name": "Frieza (Z)",
+      "feature": "4th Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/NDJRoUNTCOBckq7qmNAp"
+    },
+    {
+      "name": "Frieza (Z)",
+      "feature": "Full Power",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/sejlGpyWQI2wf2z3sQoB"
+    },
+    {
+      "name": "Chiaotzu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/APrUaH15TR6Jm1ryUZ5V"
+    },
+    {
+      "name": "Saibaman",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/ZQjwcorLRv6m7YgBtWWJ"
+    },
+    {
+      "name": "Zarbon",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/XkJ8Xio4QNoVq2sfugDp"
+    },
+    {
+      "name": "Super Zarbon",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/9St49Te4Qyu9e9dWLj70"
+    },
+    {
+      "name": "Dodoria",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/XFNRVYbSuegeCXKxWtIQ"
+    },
+    {
+      "name": "Cui",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/r4WM3FElTSqGnFQ6Ivcf"
+    },
+    {
+      "name": "Ginyu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/itBPEGaQZivEejEpmGjP"
+    },
+    {
+      "name": "Recoome",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/yTR31J3GTsCswrHMECho"
+    },
+    {
+      "name": "Guldo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/JRHLFI8UTafuMjBmLjEC"
+    },
+    {
+      "name": "Gohan (Teen)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/muR95lS2Rde6idvzb3Q1"
+    },
+    {
+      "name": "Gohan (Teen)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/7A1HthFS3G974QsxfwLj"
+    },
+    {
+      "name": "Gohan (Teen)",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/iwpYoQyQDC3VH4UFljww"
+    },
+    {
+      "name": "Trunks (Melee)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/nJHvx2PtTgCl21HDus3s"
+    },
+    {
+      "name": "Android 17 (Z)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/aAiHlrMSrKqbjR1l3h9w"
+    },
+    {
+      "name": "Android 16",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/b1PpLEbnSvGiYZFLxcOJ"
+    },
+    {
+      "name": "Android 19",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/MZEZEfzjRZGqtoisR7Lf"
+    },
+    {
+      "name": "Dr. Gero",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/RqdhWw3fQ9CTPdiOBwzn"
+    },
+    {
+      "name": "Cell",
+      "feature": "1st Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/UcoWPJ6BSuiYV1JA8ekW"
+    },
+    {
+      "name": "Cell",
+      "feature": "2nd Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/bxo1LkIpT1elRbtUdBM6"
+    },
+    {
+      "name": "Perfect Cell",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/rro8fSpvSTOAeewBqPkl"
+    },
+    {
+      "name": "Cell Jr.",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/T6OxKrb0Rb2dwLDmgAYr"
+    },
+    {
+      "name": "Piccolo (Fused with Kami)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/p9YPbt1XRCq07AgP7MqQ"
+    },
+    {
+      "name": "King Cold",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/drZK9nFTv6zmrCbObqAj"
+    },
+    {
+      "name": "Mecha Frieza",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/lEkURH5QZvjQVBhdLYkw"
+    },
+    {
+      "name": "Great Saiyaman",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Xbath3BtT6OP8UozJBGO"
+    },
+    {
+      "name": "Babidi",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/G4XzEPceSyW0LVb0BMUZ"
+    },
+    {
+      "name": "Gohan (Adult)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/HtJF4NJS3aGyQEvJ2CJA"
+    },
+    {
+      "name": "Majin Buu (Evil)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/gjNMtpUPRxSPvMY7jI9V"
+    },
+    {
+      "name": "Super Buu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/vGLR10lZQSyECn1Jlwlw"
+    },
+    {
+      "name": "Ultimate Gohan",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/hjbS54qRUiZqUKqKwmXg"
+    },
+    {
+      "name": "Super Buu (Gotenks Absorbed)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/fqgCUlnSDecvdV8CYDU1"
+    },
+    {
+      "name": "Super Buu (Gohan Absorbed)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WobWChAtRk2jdrvAg91i"
+    },
+    {
+      "name": "Kid Buu",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/lcuApkxiQiS9zMWcFqKI"
+    },
+    {
+      "name": "Goku (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Y72Y7sAVRiSgKV3bp3VY"
+    },
+    {
+      "name": "Pan (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/iPDWI2UdR9m2PzlzEwGz"
+    },
+    {
+      "name": "Goku (GT)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/b1eb9Bw5TMuICGXlampm"
+    },
+    {
+      "name": "Baby Vegeta (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/JChkXUA3RwK4hmWVEwyA"
+    },
+    {
+      "name": "Goku (GT)",
+      "feature": "Super Saiyan 3",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/zeXFuvvREaafy0Zn6iBg"
+    },
+    {
+      "name": "Super Baby 1 (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/xr8EZOUMSznereOAUQow"
+    },
+    {
+      "name": "Super Baby 2 (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/vpt3rntMTTSqDmciUeDv"
+    },
+    {
+      "name": "Uub (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/n68XGYfNQWqUzTnEGfbK"
+    },
+    {
+      "name": "Majuub (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/bwH2b157Qz6BcJceKZ3x"
+    },
+    {
+      "name": "Goku (GT)",
+      "feature": "Super Saiyan 4",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/hJ9UlTTGQ6G1G5Clra7i"
+    },
+    {
+      "name": "Great Ape Baby (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/sk1TYLcySueD6d6zjvyP"
+    },
+    {
+      "name": "Syn Shenron",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/1hZK8lc5RdKpzyrbZquV"
+    },
+    {
+      "name": "Omega Shenron (GT)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/MVfFVW1TRF2BNNqMetgc"
+    },
+    {
+      "name": "Vegeta (GT)",
+      "feature": "Super Saiyan 4",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/zBmIB5QeRtSKgbBCfSuA"
+    },
+    {
+      "name": "Gogeta (GT)",
+      "feature": "Super Saiyan 4",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/MOwWls0BTm6Zn4xm1scH"
+    },
+    {
+      "name": "Frieza Force Soldier",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/QWsYZAxT7SsqkoKvHxPt"
+    },
+    {
+      "name": "Cabba",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/6ygnoYEOSniKw07ojrQf"
+    },
+    {
+      "name": "Frost",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/amTYFTfT2OTk7G5w1e2T"
+    },
+    {
+      "name": "Toppo, God of Destruction",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4cINWMSb2irraaAV1MdQ"
+    },
+    {
+      "name": "Cabba",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/sdv1IvybTOeq088ikE5h"
+    },
+    {
+      "name": "Cabba",
+      "feature": "Super Saiyan 2",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/klkz1WlMTaqxJh1jmdfM"
+    },
+    {
+      "name": "Broly (Z)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/f9ckNtdRRbadAbAuucgS"
+    },
+    {
+      "name": "Broly (Z)",
+      "feature": "Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/WQWPcRCwS5KZ9g1TysoH"
+    },
+    {
+      "name": "Broly (Z)",
+      "feature": "Legendary Super Saiyan",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/a5WFg6CGR8qERJFWaNg0"
+    },
+    {
+      "name": "Cooler",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/E5uYRVJ5Qnqch4AsMJMN"
+    },
+    {
+      "name": "Cooler",
+      "feature": "Final Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/TtKr1zwYTZqlYQ3Lanrv"
+    },
+    {
+      "name": "Metal Cooler",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4yNUPhAeSqWtJUxlVY8q"
+    },
+    {
+      "name": "Android 13",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/4dFQn6a9SVHfUMdkzudD"
+    },
+    {
+      "name": "Fusion Android 13",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/j621vlLTOboDM3wOAvEw"
+    },
+    {
+      "name": "Super Garlic Jr.",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/BLO693osTn2oE9UxCwr7"
+    },
+    {
+      "name": "Dr. Wheelo",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/ZN86GSzERg1671Hfz3JJ"
+    },
+    {
+      "name": "Lord Slug",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/Yv1eq4bgR5KViOIyIPZI"
+    },
+    {
+      "name": "Lord Slug",
+      "feature": "Giant Form",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/jUZ1Aq4zRNekYfVqmUUU"
+    },
+    {
+      "name": "Turles",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/mOQDxMf3SI6XNQ85QbZK"
+    },
+    {
+      "name": "Bojack",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/pQ1nlLaSReeuYS0Sqv7d"
+    },
+    {
+      "name": "Full-Power Bojack",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/2NEX0WyQvKXg5sSJMGBP"
+    },
+    {
+      "name": "Hirudegarn",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/BG0F3jt3R1CBKVxMO4B7"
+    },
+    {
+      "name": "Tapion",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/G0rxOtUJQG61g2VwpuDO"
+    },
+    {
+      "name": "Janemba",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/VjCb76MDTdgT2fSuocV5"
+    },
+    {
+      "name": "Super Janemba",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/rz9BcZTfQzSw6ehSa44s"
+    },
+    {
+      "name": "Super Gogeta (Z)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/GfuT7fIvSsCmQC8IEf8B"
+    },
+    {
+      "name": "Goku (Teen)",
+      "feature": "",
+      "BP_Cost": 0,
+      "img_url": "https://media.graphassets.com/CshnxbDbQPGIkuiUp7Bp"
+    }
+  ]
+}
