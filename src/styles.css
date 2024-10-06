@@ -1,0 +1,21 @@
+.app {
+  text-align: center;
+}
+
+.character-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  width: 150px;
+}
+
+.team-display {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
